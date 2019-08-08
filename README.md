@@ -113,34 +113,34 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 简单难度
 
-- [0020.Valid Parentheses](./problems/20.validParentheses.md)
-- [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
-- [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
-- [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
-- [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)
-- [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
-- [0125.valid-palindrome](./problems/125.valid-palindrome.md) 🆕
-- [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
-- [0136.single-number](./problems/136.single-number.md)
-- [0155.min-stack](./problems/155.min-stack.md) 🆕
-- [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
-- [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
-- [0169.majority-element](./problems/169.majority-element.md)
-- [0190.reverse-bits](./problems/190.reverse-bits.md)
-- [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)
-- [0198.house-robber](./problems/198.house-robber.md)
-- [0203.remove-linked-list-elements](./problems/203.remove-linked-list-elements.md)
-- [0206.reverse-linked-list](./problems/206.reverse-linked-list.md)
-- [0219.contains-duplicate-ii](./problems/219.contains-duplicate-ii.md)
-- [0226.invert-binary-tree](./problems/226.invert-binary-tree.md)
-- [0232.implement-queue-using-stacks](./problems/232.implement-queue-using-stacks.md) 🆕
-- [0263.ugly-number](./problems/263.ugly-number.md)
-- [0283.move-zeroes](./problems/283.move-zeroes.md)
-- [0342.power-of-four](./problems/342.power-of-four.md)
-- [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
-- [0437.path-sum-iii](./problems/437.path-sum-iii.md) 🆕
-- [0371.sum-of-two-integers](./problems/371.sum-of-two-integers.md)
-- [0575.distribute-candies](./problems/575.distribute-candies.md)
+- [x] [0020.Valid Parentheses](./problems/20.validParentheses.md)
+- [x] [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
+- [x] [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
+- [x] [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
+- [x] [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)
+- [x] [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
+- [x] [0125.valid-palindrome](./problems/125.valid-palindrome.md) 🆕
+- [ ] [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
+- [x] [0136.single-number](./problems/136.single-number.md)
+- [x] [0155.min-stack](./problems/155.min-stack.md) 🆕
+- [x] [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
+- [x] [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
+- [x] [0169.majority-element](./problems/169.majority-element.md)
+- [ ] [0190.reverse-bits](./problems/190.reverse-bits.md)
+- [x] [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)
+- [x] [0198.house-robber](./problems/198.house-robber.md)
+- [x] [0203.remove-linked-list-elements](./problems/203.remove-linked-list-elements.md)
+- [x] [0206.reverse-linked-list](./problems/206.reverse-linked-list.md)
+- [x] [0219.contains-duplicate-ii](./problems/219.contains-duplicate-ii.md)
+- [x] [0226.invert-binary-tree](./problems/226.invert-binary-tree.md)
+- [x] [0232.implement-queue-using-stacks](./problems/232.implement-queue-using-stacks.md) 🆕
+- [x] [0263.ugly-number](./problems/263.ugly-number.md)
+- [x] [0283.move-zeroes](./problems/283.move-zeroes.md)
+- [x] [0342.power-of-four](./problems/342.power-of-four.md)
+- [x] [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
+- [x] [0437.path-sum-iii](./problems/437.path-sum-iii.md) 🆕
+- [ ] [0371.sum-of-two-integers](./problems/371.sum-of-two-integers.md)
+- [ ] [0575.distribute-candies](./problems/575.distribute-candies.md)
 
 
 #### 中等难度
