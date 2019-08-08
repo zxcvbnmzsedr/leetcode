@@ -120,7 +120,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)
 - [x] [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
 - [x] [0125.valid-palindrome](./problems/125.valid-palindrome.md) 🆕
-- [ ] [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
+- [x] [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
 - [x] [0136.single-number](./problems/136.single-number.md)
 - [x] [0155.min-stack](./problems/155.min-stack.md) 🆕
 - [x] [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
