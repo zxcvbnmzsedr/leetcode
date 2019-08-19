@@ -145,7 +145,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 中等难度
 
-- [ ] [0002. Add Two Numbers](./problems/2.addTwoNumbers.md)
+- [x] [0002. Add Two Numbers](./problems/2.addTwoNumbers.md)
 - [ ] [0003. Longest Substring Without Repeating Characters](./problems/3.longestSubstringWithoutRepeatingCharacters.md)
 - [ ] [0005.longest-palindromic-substring](./problems/5.longest-palindromic-substring.md) 🆕
 - [ ] [0011.container-with-most-water](./problems/11.container-with-most-water.md)
