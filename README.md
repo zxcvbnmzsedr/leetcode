@@ -167,6 +167,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [ ] [0073.set-matrix-zeroes](./problems/73.set-matrix-zeroes.md )
 - [ ] [0075.sort-colors](./problems/75.sort-colors.md)
 - [ ] [0078.subsets](./problems/78.subsets.md)
+- [ ] [0079.word-search](./problems/79.word-search.md)
 - [ ] [0086.partition-list](./problems/86.partition-list.md)
 - [ ] [0090.subsets-ii](./problems/90.subsets-ii.md)
 - [ ] [0091.decode-ways](./problems/91.decode-ways.md)
@@ -176,6 +177,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [ ] [0102.binary-tree-level-order-traversal](./problems/102.binary-tree-level-order-traversal.md)
 - [ ] [0103.binary-tree-zigzag-level-order-traversal](./problems/103.binary-tree-zigzag-level-order-traversal.md)
 - [ ] [0113.path-sum-ii](./problems/113.path-sum-ii.md)
+- [ ] [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
 - [ ] [0130.surrounded-regions](./problems/130.surrounded-regions.md) 🆕 
 - [ ] [0131.palindrome-partitioning](./problems/131.palindrome-partitioning.md)
 - [ ] [0139.word-break](./problems/139.word-break.md)
