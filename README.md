@@ -149,7 +149,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0003. Longest Substring Without Repeating Characters](./problems/3.longestSubstringWithoutRepeatingCharacters.md)
 - [x] [0005.longest-palindromic-substring](./problems/5.longest-palindromic-substring.md) 🆕
 - [x] [0011.container-with-most-water](./problems/11.container-with-most-water.md)
-- [ ] [0015.3-sum](./problems/15.3-sum.md)
+- [x] [0015.3-sum](./problems/15.3-sum.md)
 - [ ] [0019. Remove Nth Node From End of List](./problems/19.removeNthNodeFromEndofList.md)
 - [ ] [0024. Swap Nodes In Pairs](./problems/24.swapNodesInPairs.md)
 - [ ] [0029.divide-two-integers](./problems/29.divide-two-integers.md) 🆕
