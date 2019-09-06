@@ -159,7 +159,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [x] [0040.combination-sum-ii](./problems/40.combination-sum-ii.md)
 - [x] [0046.permutations](./problems/46.permutations.md)
 - [x] [0047.permutations-ii](./problems/47.permutations-ii.md)
-- [ ] [0048.rotate-image](./problems/48.rotate-image.md)
+- [x] [0048.rotate-image](./problems/48.rotate-image.md)
 - [ ] [0049.group-anagrams](./problems/49.group-anagrams.md)
 - [ ] [0055.jump-game](./problems/55.jump-game.md)
 - [ ] [0056.merge-intervals](./problems/56.merge-intervals.md)
